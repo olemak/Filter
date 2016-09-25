@@ -1,0 +1,35 @@
+{
+  "name": "filter",
+  "version": "0.0.1",
+  "description": "A reactive service for filtering Episerver Find responses for Ecommerce, enabling automatic and easily customized web interfaces for displaying, sorting and filtering ecommerce products by Facets such as brand, price range, size etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olemak/Filter.git"
+  },
+  "keywords": [
+    "Episerver",
+    "Find",
+    "React",
+    "Filtering",
+    "Geta"
+  ],
+  "author": "Ole Martin Kristiansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olemak/Filter/issues"
+  },
+  "homepage": "https://github.com/olemak/Filter#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0"
+  }
+}
